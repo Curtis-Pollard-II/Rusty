@@ -1,0 +1,15 @@
+C:\Users\clpth\source\codeworks\lab\Rusty\bin\Debug\net6.0\Rusty.exe
+C:\Users\clpth\source\codeworks\lab\Rusty\bin\Debug\net6.0\Rusty.deps.json
+C:\Users\clpth\source\codeworks\lab\Rusty\bin\Debug\net6.0\Rusty.runtimeconfig.json
+C:\Users\clpth\source\codeworks\lab\Rusty\bin\Debug\net6.0\Rusty.dll
+C:\Users\clpth\source\codeworks\lab\Rusty\bin\Debug\net6.0\Rusty.pdb
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.csproj.AssemblyReference.cache
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.AssemblyInfoInputs.cache
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.AssemblyInfo.cs
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.csproj.CoreCompileInputs.cache
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.dll
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\refint\Rusty.dll
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.pdb
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\Rusty.genruntimeconfig.cache
+C:\Users\clpth\source\codeworks\lab\Rusty\obj\Debug\net6.0\ref\Rusty.dll
